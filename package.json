@@ -3,7 +3,7 @@
   "private": true,
   "version": "5.1.0",
   "type": "module",
-  "homepage": "https://USERNAME.github.io/jk-technolibrary",
+  "homepage": "https://reygarz.github.io/reygarz.github.io",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
